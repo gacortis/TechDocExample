@@ -1,0 +1,9 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: TechDocExample
+  annotations:
+    github.com/project-slug: gacortis/TechDocExample
+spec:
+  type: other
+  lifecycle: unknown
